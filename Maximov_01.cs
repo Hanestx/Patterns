@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
+
 namespace Math
 {
     internal class MathProgram
